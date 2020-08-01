@@ -1,3 +1,3 @@
 ### 👋 Hi there 
 
-#### I mainly just work on school projects and LEGO Universe restoration projects so you won't find much here
+#### You can find all my projects (here)[https://github.com/CaffeineStudio]
